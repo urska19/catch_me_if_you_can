@@ -4,3 +4,9 @@ Pacman inspired mobile game for Android and iOS, where a hungry egg maneuvers th
 Resources:
 - Assets are from https://bevouliin.com/
 - Sound effects are from https://pixabay.com/
+- Fonts is from https://fonts.google.com/specimen/Press+Start+2P
+
+Preview:
+
+https://github.com/urska19/catch_me_if_you_can/assets/6882194/51e59e47-9c74-4b82-87e8-35f333730f70
+
